@@ -7,21 +7,21 @@ These include 18 Kb (2 x 9 Kb) block RAMs, second generation DSP48A1 slices, SDR
 poweroptimized high-speed serial transceiver blocks, PCI Express® compatible Endpoint blocks, advanced system-level power management modes, auto-detect configuration
 options, and enhanced IP security with AES and Device DNA protection.
 ## Features and Specification
-     * Xilinx FPGA module
-     XC 6SLX9 FPGA from Xilinx
-     Supports for Xilinx PLD’s
-     Voltage supported 12V
-     All FPGA I/Os accessible through headers
-     User selectable configuration modes using,JTAG
-     LED indicated output
-     7-Segment display
-     Liquid crystal display (LCD) section
-     4*4 keyboard matrix
-     16*2 character LCD display
-     Relay buzzer section.
-     Stepper and DC motor section
-     Digital Logic
-     8 bit DAC section
-     8 bit ADC section
-     VGA connector section
-     Serial communiction section
+     1. Xilinx FPGA module
+     2. XC 6SLX9 FPGA from Xilinx
+     3. Supports for Xilinx PLD’s
+     4. Voltage supported 12V
+     5. All FPGA I/Os accessible through headers
+     6. User selectable configuration modes using,JTAG
+     7. LED indicated output
+     8. SevenSegment display
+     9. Liquid crystal display (LCD) section
+     10. 4*4 keyboard matrix
+     11. 16*2 character LCD display
+     12. Relay buzzer section.
+     13. Stepper and DC motor section
+     14. Digital Logic
+     15. 8 bit DAC section
+     16. 8 bit ADC section
+     17. VGA connector section
+     18. Serial communiction section
