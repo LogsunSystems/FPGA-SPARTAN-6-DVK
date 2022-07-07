@@ -1,4 +1,4 @@
-# SPARTAN 6 DVK
+# SPARTAN-6 DVK
 ## INRRODUCTION
 The Spartan®-6 family provides leading system integration capabilities with the lowest total cost for high-volume applications.
 The thirteen-member family delivers expanded densities ranging from 3,840 to 147,443 logic cells, with half the power consumption of previous Spartan families,
