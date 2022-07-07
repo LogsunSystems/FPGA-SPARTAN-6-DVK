@@ -7,8 +7,8 @@ These include 18 Kb (2 x 9 Kb) block RAMs, second generation DSP48A1 slices, SDR
 poweroptimized high-speed serial transceiver blocks, PCI Express® compatible Endpoint blocks, advanced system-level power management modes, auto-detect configuration
 options, and enhanced IP security with AES and Device DNA protection.
 ## Features and Specification
-    * Xilinx FPGA module
-    * XC 6SLX9 FPGA from Xilinx
+      * Xilinx FPGA module
+      * XC 6SLX9 FPGA from Xilinx
     * Supports for Xilinx PLD’s
     * Voltage supported 12V
     * All FPGA I/Os accessible through headers
